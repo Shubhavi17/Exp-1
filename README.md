@@ -7,7 +7,7 @@ To create ATM System software that will meet the needs of the applicant and help
 # DIAGRAMS:
 ## USE DIAGRAM -
 
-<img width="907" height="843" alt="image" src="https://github.com/user-attachments/assets/c5d4ee13-24fe-43de-bc38-b22b856e1479" />
+<img width="947" height="896" alt="image" src="https://github.com/user-attachments/assets/aa778d8a-e1a4-4939-86dd-a95225aa62f7" />
 
 
 ## CLASS  DIAGRAM -
