@@ -7,27 +7,32 @@ To create ATM System software that will meet the needs of the applicant and help
 # DIAGRAMS:
 ## USE DIAGRAM -
 
-<img width="457" height="524" alt="image" src="https://github.com/user-attachments/assets/a99e11a4-f8a5-4034-85fa-50d3eba523ec" />
+<img width="907" height="843" alt="image" src="https://github.com/user-attachments/assets/c5d4ee13-24fe-43de-bc38-b22b856e1479" />
+
 
 ## CLASS  DIAGRAM -
 
-<img width="435" height="345" alt="image" src="https://github.com/user-attachments/assets/ae55398b-3573-452f-87b4-faa59b40c6b3" />
+<img width="924" height="768" alt="image" src="https://github.com/user-attachments/assets/52aaef16-2334-42f7-be5f-39797d3d1de3" />
+
 
 ## SEQUENCE DIAGRAM -
 
-<img width="415" height="335" alt="image" src="https://github.com/user-attachments/assets/7b2490be-e4e0-40fd-b8dd-6783b823282b" />
+<img width="980" height="829" alt="image" src="https://github.com/user-attachments/assets/d30bfb29-134e-441e-9aa0-7a787bc35fa1" />
+
 
 ## ACTIVITY DIAGRAM -
 
-<img width="436" height="535" alt="image" src="https://github.com/user-attachments/assets/235c448b-105b-40b0-b2d6-3c0565ed4389" />
+<img width="724" height="869" alt="image" src="https://github.com/user-attachments/assets/f94f20bb-64cd-4d0a-b863-a9f6e1c8fa41" />
+
 
 ## PACKAGE DIAGRAM -
+<img width="1096" height="729" alt="image" src="https://github.com/user-attachments/assets/2c80f5c4-eaf6-4243-97f0-b49389327ef5" />
 
-<img width="436" height="282" alt="image" src="https://github.com/user-attachments/assets/51a79814-c91e-4774-968d-786e2442bf8c" />
 
 ## COMMUNICATION DIAGRAM -
 
-<img width="404" height="316" alt="image" src="https://github.com/user-attachments/assets/ea99545a-8eab-48a7-af9e-9ca1814134f2" />
+<img width="1133" height="731" alt="image" src="https://github.com/user-attachments/assets/3ffa55d3-ff62-4a23-b597-a68e6c09665a" />
+
 
 
 ### RESULT: 
